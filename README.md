@@ -3,6 +3,10 @@
 Python script performing an ARP cache poisoning (ARP spoofing) attack.
 Script redirects and captures traffic between a victim and the default gateway.
 
+## Disclaimer
+
+This is for educational purposes only. I DO NOT encourage or promote any illegal activities.
+
 ## Install requirements
 
 ```
